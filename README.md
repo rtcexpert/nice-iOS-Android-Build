@@ -27,5 +27,4 @@ libnice for iOS and Android.
                 - run  "rsync --include '*.h' --filter 'hide,! */' -avm src/ Final-Build/include"
 
 
-if you find my repo helpfull to you. give it a star. 
-if you have any queries you can contact me on "rahul@rahulpathak.in" or open bug report.
+if you find my repo helpfull to you. give it a star.
